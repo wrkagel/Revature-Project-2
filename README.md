@@ -29,8 +29,6 @@ Contains applications that are to be used by a vacation company to provide servi
   - Built using Expo and React Native.
   - url: https://github.com/wrkagel/Revature-Project-2-Employee-App
 
-
-
 ## Backend APIs
   - ### [Azure Functions API](https://github.com/wrkagel/Revature-Project-2-Azure-Functions)
     - Azure functions that work as the Problem API as well as other glue code functions.
@@ -43,3 +41,8 @@ Contains applications that are to be used by a vacation company to provide servi
     - url: https://github.com/adamranieri/RoomServiceAPI
   - Reservation API
     - Implemented using a Postman mock server.
+
+## Contributors
+- Walter Kagel (wrkagel)
+- David Wallace (dwallace-rev)
+- Mike Hanna (MikeH211)
